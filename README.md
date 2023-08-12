@@ -25,7 +25,3 @@ This is a basic authentication app built using the MEAN stack (MongoDB, Express.
    git clone https://github.com/Abdull-Haseeb/Auth-with-Angular-and-Express
    cd mean-auth-app
    ```
-
-```
-
-```
