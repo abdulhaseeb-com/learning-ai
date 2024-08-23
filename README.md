@@ -1,7 +1,3 @@
-Here's a `.md` template based on your provided content but tailored for the "simple-auth-examples" repository:
-
----
-
 # Simple Authentication Examples
 
 This repository contains a collection of simple authentication examples using various technologies and frameworks. It demonstrates basic user registration, login, and logout functionalities.
@@ -35,4 +31,3 @@ This repository contains a collection of simple authentication examples using va
 
 ---
 
-Feel free to modify any section as needed for your project!
